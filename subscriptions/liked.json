@@ -1,0 +1,40 @@
+{
+  "id" : "user/09605743676117308798/state/com.google/like",
+  "title" : "\"like\" via Chaz in Google Reader",
+  "author" : "Chaz",
+  "updated" : 1306889959,
+  "direction" : "ltr",
+  "items" : [ {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1306889959223",
+    "timestampUsec" : "1306889959223376",
+    "id" : "tag:google.com,2005:reader/item/87f99cf3510d1b60",
+    "categories" : [ "user/09605743676117308798/state/com.google/like", "user/09605743676117308798/state/com.google/read", "Club Life" ],
+    "title" : "Messing About Under New Onwership (The Boat That Is)",
+    "published" : 1306876244,
+    "updated" : 1306876244,
+    "alternate" : [ {
+      "href" : "http://feedproxy.google.com/~r/MessingAboutInSailboats/~3/Jh8S18th5Vc/messing-about-under-new-onwership-the-boat-that-is.html",
+      "type" : "text/html"
+    } ],
+    "replies" : [ {
+      "href" : "http://messingaboutinboats.typepad.com/sailing/2011/05/messing-about-under-new-onwership-the-boat-that-is.html",
+      "type" : "text/html"
+    } ],
+    "canonical" : [ {
+      "href" : "http://messingaboutinboats.typepad.com/sailing/2011/05/messing-about-under-new-onwership-the-boat-that-is.html"
+    } ],
+    "content" : {
+      "direction" : "ltr",
+      "content" : "<div><p>Late last year, we sold <em>Messing About</em>, now called <em>Genesis</em> to our friend and clubmate, Eli Blumenthal. He's having a blast with her as you can see below. The shot below are of Eli sailing <em>Genesis</em> last Sunday with son Steven and friend Rebecca. In the second shot, the other S2 is the bigger model sailed by another clubmate, Bob Wardlow.</p>\r\n<p><a href=\"http://messingaboutinboats.typepad.com/.a/6a00d8341c05bf53ef01538eda40cd970b-pi\" style=\"float:left\"><img alt=\"IMG_2374\" src=\"http://messingaboutinboats.typepad.com/.a/6a00d8341c05bf53ef01538eda40cd970b-500wi\" style=\"width:460px;margin:0px 5px 5px 0px\" title=\"IMG_2374\"></a> <a href=\"http://messingaboutinboats.typepad.com/.a/6a00d8341c05bf53ef01538eda413f970b-pi\" style=\"float:left\"><img alt=\"IMG_2374\" src=\"http://messingaboutinboats.typepad.com/.a/6a00d8341c05bf53ef01538eda413f970b-500wi\" style=\"width:460px;margin:0px 5px 5px 0px\" title=\"IMG_2374\"></a></p></div><p><iframe src=\"http://feedads.g.doubleclick.net/~ah/f/9nqi1nq6dg97p8lv4po20ganno/300/250?ca=1&amp;fh=280#http%3A%2F%2Fmessingaboutinboats.typepad.com%2Fsailing%2F2011%2F05%2Fmessing-about-under-new-onwership-the-boat-that-is.html\" width=\"100%\" height=\"280\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\"></iframe></p><div>\n<a href=\"http://feeds.feedburner.com/~ff/MessingAboutInSailboats?a=Jh8S18th5Vc:qdfvyz7t82k:yIl2AUoC8zA\"><img src=\"http://feeds.feedburner.com/~ff/MessingAboutInSailboats?d=yIl2AUoC8zA\" border=\"0\"></a> <a href=\"http://feeds.feedburner.com/~ff/MessingAboutInSailboats?a=Jh8S18th5Vc:qdfvyz7t82k:V_sGLiPBpWU\"><img src=\"http://feeds.feedburner.com/~ff/MessingAboutInSailboats?i=Jh8S18th5Vc:qdfvyz7t82k:V_sGLiPBpWU\" border=\"0\"></a> <a href=\"http://feeds.feedburner.com/~ff/MessingAboutInSailboats?a=Jh8S18th5Vc:qdfvyz7t82k:gIN9vFwOqvQ\"><img src=\"http://feeds.feedburner.com/~ff/MessingAboutInSailboats?i=Jh8S18th5Vc:qdfvyz7t82k:gIN9vFwOqvQ\" border=\"0\"></a> <a href=\"http://feeds.feedburner.com/~ff/MessingAboutInSailboats?a=Jh8S18th5Vc:qdfvyz7t82k:qj6IDK7rITs\"><img src=\"http://feeds.feedburner.com/~ff/MessingAboutInSailboats?d=qj6IDK7rITs\" border=\"0\"></a>\n</div><img src=\"http://feeds.feedburner.com/~r/MessingAboutInSailboats/~4/Jh8S18th5Vc\" height=\"1\" width=\"1\">"
+    },
+    "author" : "Adam Turinas",
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://feeds.feedburner.com/MessingAboutInSailboats",
+      "title" : "Messing About In Sailboats",
+      "htmlUrl" : "http://messingaboutinboats.typepad.com/sailing/"
+    }
+  } ]
+}

@@ -1,0 +1,36 @@
+{
+  "id" : "user/09605743676117308798/state/com.google/broadcast-friends",
+  "title" : "\"broadcast-friends\" via Chaz in Google Reader",
+  "author" : "Chaz",
+  "updated" : 1312270680,
+  "direction" : "ltr",
+  "items" : [ {
+    "isReadStateLocked" : true,
+    "crawlTimeMsec" : "1312270680258",
+    "timestampUsec" : "1312270680258859",
+    "id" : "tag:google.com,2005:reader/item/3035c647bd7ecbaf",
+    "categories" : [ "user/09605743676117308798/state/com.google/read", "user/06387092858767323310/state/com.google/broadcast", "user/09605743676117308798/state/com.google/broadcast-friends" ],
+    "title" : "BlizzardCS: @JooseOrlando I think the idea was to have a different set of characters in #Diablo3. Check each one out here: http://bit.ly/qr11UR",
+    "published" : 1312214495,
+    "updated" : 1312214495,
+    "alternate" : [ {
+      "href" : "http://twitter.com/BlizzardCS/statuses/98060818557575168",
+      "type" : "text/html"
+    } ],
+    "via" : [ {
+      "href" : "http://www.google.com/reader/public/atom/user/06387092858767323310/state/com.google/broadcast",
+      "title" : "Dewi's shared items"
+    } ],
+    "summary" : {
+      "direction" : "ltr",
+      "content" : "BlizzardCS: @JooseOrlando I think the idea was to have a different set of characters in #Diablo3. Check each one out here: <a href=\"http://bit.ly/qr11UR\">http://bit.ly/qr11UR</a>"
+    },
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://twitter.com/statuses/user_timeline/174307074.rss",
+      "title" : "Twitter / BlizzardCS",
+      "htmlUrl" : "http://twitter.com/BlizzardCS"
+    }
+  } ]
+}

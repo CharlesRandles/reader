@@ -1,0 +1,101 @@
+{
+  "friends" : [ {
+    "userIds" : [ "06387092858767323310" ],
+    "profileIds" : [ "117974828192981073685" ],
+    "contactId" : "5",
+    "photoUrl" : "/s2/photos/public/AIbEiAIAAABECJX-wOqb4Nq5-QEiC3ZjYXJkX3Bob3RvKig1Yjk1NzMwYjE0ZjY3ODQyMzUwOWMxODk0Mzc3MTQyNzRlNmVhZTFmMAHhEso8g1dFlADUNtiq-cH0Z-RG0A",
+    "location" : "Brisbane",
+    "stream" : "user/06387092858767323310/state/com.google/broadcast",
+    "flags" : 544,
+    "types" : [ 1, 3, 6, 7 ],
+    "displayName" : "Dewi Randles",
+    "givenName" : "Dewi",
+    "n" : "",
+    "p" : "",
+    "groupId" : [ "18", "9999", "2" ],
+    "websites" : [ {
+      "title" : "My Photostream",
+      "url" : "http://flickr.com/photos/fractalthoughts"
+    }, {
+      "title" : "My Blog",
+      "url" : "http://fractalthoughts.com"
+    } ]
+  }, {
+    "userIds" : [ "10545163749583845724" ],
+    "profileIds" : [ "115128549364494995509" ],
+    "contactId" : "204",
+    "photoUrl" : "/s2/photos/public/AIbEiAIAAABECLWgvq3h79n50QEiC3ZjYXJkX3Bob3RvKihiMzY5M2ViZjNhOTFkODA3MjNlNGUyYzk1NTk2MDMwNWU1M2QxZjhlMAH2dv5gTMfxKtv_sCCHKPe2ialjJQ",
+    "stream" : "user/10545163749583845724/state/com.google/broadcast",
+    "flags" : 32,
+    "types" : [ 3, 4, 6, 7 ],
+    "displayName" : "Deepak Kumar",
+    "givenName" : "Deepak",
+    "n" : "",
+    "p" : "",
+    "groupId" : [ "18" ],
+    "websites" : [ {
+      "title" : "Picasa Web Albums",
+      "url" : "http://picasaweb.google.com/deepaktheguru"
+    } ]
+  }, {
+    "userIds" : [ "03553721638388375674" ],
+    "profileIds" : [ "101260809220540316907" ],
+    "contactId" : "111",
+    "photoUrl" : "/s2/photos/public/AIbEiAIAAABDCOv53r7l6dK_ESILdmNhcmRfcGhvdG8qKGE5NWVjN2MyNjhjYjMxMTUxZTZlZTQxNTJjYzBiNjBiYTg2NmE2MDEwATnokCDsL0xAsl2FVcm8e7fPTUNy",
+    "stream" : "user/03553721638388375674/state/com.google/broadcast",
+    "flags" : 32,
+    "types" : [ 3, 4, 6, 7 ],
+    "displayName" : "Sumay Tang",
+    "givenName" : "Sumay",
+    "n" : "",
+    "p" : "",
+    "groupId" : [ "18", "2" ],
+    "websites" : [ {
+      "title" : "Buzz",
+      "url" : "https://profiles.google.com/101260809220540316907/buzz"
+    } ]
+  }, {
+    "userIds" : [ "07867069051155047205" ],
+    "profileIds" : [ "100455883090951830540" ],
+    "contactId" : "208",
+    "photoUrl" : "/s2/photos/public/AIbEiAIAAABDCIz4qfqX6OepBiILdmNhcmRfcGhvdG8qKDkzNGEyZjU1ZmRlYzViODU0MDBhN2I1MWVmMjBmMWUzODkwNWExZjcwAVzgPETQweG_r7S4UMMMPvksIBCm",
+    "stream" : "user/07867069051155047205/state/com.google/broadcast",
+    "flags" : 32,
+    "types" : [ 3, 5 ],
+    "displayName" : "Caspian Merlin",
+    "givenName" : "Caspian",
+    "n" : "",
+    "p" : "",
+    "groupId" : [ "2" ]
+  }, {
+    "userIds" : [ "05434502457758728560" ],
+    "profileIds" : [ "106019945765912929834" ],
+    "contactId" : "63",
+    "photoUrl" : "/s2/photos/public/AIbEiAIAAABDCKrM7YL3mMnFUyILdmNhcmRfcGhvdG8qKDFlZTM2YWY4ZTEyZjdhZWI5ZGI1NWVlYmY1Y2Q1N2M5YWRkYzRkODcwAQ5tUnBWP-kjp97C7U_kvHQsiduk",
+    "stream" : "user/05434502457758728560/state/com.google/broadcast",
+    "flags" : 0,
+    "types" : [ 3, 4 ],
+    "displayName" : "Caspian Merlin",
+    "givenName" : "Caspian",
+    "n" : "",
+    "p" : "",
+    "groupId" : [ "18", "2" ]
+  }, {
+    "userIds" : [ "09605743676117308798" ],
+    "profileIds" : [ "115118555472234063174" ],
+    "contactId" : "-1",
+    "photoUrl" : "/s2/photos/public/AIbEiAIAAABECMbKsrybw_nn0QEiC3ZjYXJkX3Bob3RvKig2YzgzYjRlNjFiZTg0OTg0N2NlMTU5MWZjZjgxZGI5ZGVhZjc2ZDY0MAFoVJrxtWB-8oDJL4wKm4VpL6PvDw",
+    "stream" : "user/09605743676117308798/state/com.google/broadcast",
+    "flags" : 33,
+    "displayName" : "Charles Randles",
+    "givenName" : "Charles",
+    "n" : "",
+    "p" : "",
+    "websites" : [ {
+      "title" : "charlesrandles",
+      "url" : "http://twitter.com/charlesrandles"
+    } ],
+    "hasSharedItemsOnProfile" : false
+  } ],
+  "encodedSharersList" : "CKfYn5nfGRDE457euRU"
+}

@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Chaz subscriptions in Google Reader</title>
+    </head>
+    <body>
+        <outline text="(title unknown)" title="(title unknown)"
+            type="rss" xmlUrl="http://feeds.feedburner.com/The-Atlantic" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ffeeds.feedburner.com%2FThe-Atlantic"/>
+        <outline text="100 Races" title="100 Races" type="rss"
+            xmlUrl="http://100races.blogspot.com/feeds/posts/default" htmlUrl="http://100races.blogspot.com/"/>
+        <outline text="A Blog Around The Clock"
+            title="A Blog Around The Clock" type="rss"
+            xmlUrl="http://rss.sciam.com/a-blog-around-the-clock/feed" htmlUrl="http://blogs.scientificamerican.com/a-blog-around-the-clock"/>
+        <outline text="A List Apart" title="A List Apart" type="rss"
+            xmlUrl="http://www.alistapart.com/rss.xml" htmlUrl="http://alistapart.com"/>
+        <outline text="abuptonblog's Blog" title="abuptonblog's Blog"
+            type="rss" xmlUrl="http://abuptonblog.wordpress.com/feed/" htmlUrl="http://abuptonblog.wordpress.com"/>
+        <outline text="All that matters" title="All that matters"
+            type="rss" xmlUrl="http://blog.joerg.heber.name/feed/" htmlUrl="http://allthatmatters.heber.org"/>
+        <outline text="AllThingsD » Walt Mossberg"
+            title="AllThingsD » Walt Mossberg" type="rss"
+            xmlUrl="http://allthingsd.com/author/walt/feed/" htmlUrl="http://allthingsd.com"/>
+        <outline text="Annoying Precision" title="Annoying Precision"
+            type="rss" xmlUrl="http://qchu.wordpress.com/feed/" htmlUrl="http://qchu.wordpress.com"/>
+        <outline text="Approaching Pavonis Mons by balloon"
+            title="Approaching Pavonis Mons by balloon" type="rss"
+            xmlUrl="http://approachingpavonis.blogspot.com/feeds/posts/default" htmlUrl="http://approachingpavonis.blogspot.com/"/>
+        <outline text="Astro Suni's Blog" title="Astro Suni's Blog"
+            type="rss" xmlUrl="http://astrosuni.wordpress.com/feed/" htmlUrl="http://astrosuni.wordpress.com"/>
+        <outline text="Avoiding Narcosis: Catalina, Guam, and Palau"
+            title="Avoiding Narcosis: Catalina, Guam, and Palau"
+            type="rss"
+            xmlUrl="http://avoidingnarcosis.blogspot.com/feeds/posts/default" htmlUrl="http://avoidingnarcosis.blogspot.com/"/>
+        <outline text="Azimuth" title="Azimuth" type="rss"
+            xmlUrl="http://johncarlosbaez.wordpress.com/feed/" htmlUrl="https://johncarlosbaez.wordpress.com"/>
+        <outline text="Backreaction" title="Backreaction" type="rss"
+            xmlUrl="http://backreaction.blogspot.com/atom.xml" htmlUrl="http://backreaction.blogspot.com/"/>
+        <outline text="Bad Astronomy" title="Bad Astronomy" type="rss"
+            xmlUrl="http://blogs.discovermagazine.com/badastronomy/feed/" htmlUrl="http://blogs.discovermagazine.com/badastronomy"/>
+        <outline text="BBC NEWS | News Front Page"
+            title="BBC NEWS | News Front Page" type="rss"
+            xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/front_page/rss.xml" htmlUrl="http://www.bbc.co.uk/news/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa"/>
+        <outline text="bioephemera.com" title="bioephemera.com"
+            type="rss" xmlUrl="http://bioephemera.com/feed/" htmlUrl="http://bioephemera.com"/>
+        <outline text="BishopBlog" title="BishopBlog" type="rss"
+            xmlUrl="http://deevybee.blogspot.com/feeds/posts/default" htmlUrl="http://deevybee.blogspot.com/"/>
+        <outline text="Blag Hag" title="Blag Hag" type="rss"
+            xmlUrl="http://www.blaghag.com/feeds/posts/default" htmlUrl="http://www.blaghag.com/"/>
+        <outline text="Blag Hag" title="Blag Hag" type="rss"
+            xmlUrl="http://freethoughtblogs.com/blaghag/feed/" htmlUrl="http://freethoughtblogs.com/blaghag"/>
+        <outline text="BMW ORACLE Racing blog"
+            title="BMW ORACLE Racing blog" type="rss"
+            xmlUrl="http://bmworacleracingblog.blogspot.com/feeds/posts/default" htmlUrl="http://bmworacleracingblog.blogspot.com/"/>
+        <outline text="BurbleChaz" title="BurbleChaz" type="rss"
+            xmlUrl="http://burblechaz.com/blog/feed/" htmlUrl="http://burblechaz.com/blog"/>
+        <outline text="Center of Effort" title="Center of Effort"
+            type="rss"
+            xmlUrl="http://centerofeffort01.blogspot.com/feeds/posts/default" htmlUrl="http://centerofeffort01.blogspot.com/"/>
+        <outline text="Charlie's Diary" title="Charlie's Diary"
+            type="rss"
+            xmlUrl="http://www.antipope.org/charlie/blog-static/atom.xml" htmlUrl="http://www.antipope.org/charlie/blog-static/"/>
+        <outline text="Chinook Helicopters' Flight Training Blog"
+            title="Chinook Helicopters' Flight Training Blog" type="rss"
+            xmlUrl="http://blog.chinookhelicopters.com/rss.php" htmlUrl="http://blog.chinookhelicopters.com/index.php"/>
+        <outline text="Complexity &amp; Management Centre"
+            title="Complexity &amp; Management Centre" type="rss"
+            xmlUrl="http://complexityandmanagement.wordpress.com/feed/" htmlUrl="http://complexityandmanagement.wordpress.com"/>
+        <outline
+            text="Crooked Timber — Out of the crooked timber of humanity, no ..."
+            title="Crooked Timber — Out of the crooked timber of humanity, no ..."
+            type="rss" xmlUrl="http://crookedtimber.org/feed/" htmlUrl="http://crookedtimber.org"/>
+        <outline text="Do the Math" title="Do the Math" type="rss"
+            xmlUrl="http://physics.ucsd.edu/do-the-math/feed/" htmlUrl="http://physics.ucsd.edu/do-the-math"/>
+        <outline text="Doctor Grumpy in the House"
+            title="Doctor Grumpy in the House" type="rss"
+            xmlUrl="http://drgrumpyinthehouse.blogspot.com/feeds/posts/default" htmlUrl="http://drgrumpyinthehouse.blogspot.com/"/>
+        <outline text="Doing Good Science" title="Doing Good Science"
+            type="rss"
+            xmlUrl="http://rss.sciam.com/doing-good-science/feed" htmlUrl="http://blogs.scientificamerican.com/doing-good-science"/>
+        <outline text="Dynamics of Cats" title="Dynamics of Cats"
+            type="rss" xmlUrl="http://catdynamics.blogspot.com/atom.xml" htmlUrl="http://catdynamics.blogspot.com/"/>
+        <outline text="Fractal Thoughts" title="Fractal Thoughts"
+            type="rss"
+            xmlUrl="http://www.fractalthoughts.com/blog/?feed=rss2" htmlUrl="http://www.fractalthoughts.com/blog"/>
+        <outline text="Freethought Blogs" title="Freethought Blogs"
+            type="rss" xmlUrl="http://freethoughtblogs.com/feed/" htmlUrl="http://freethoughtblogs.com"/>
+        <outline text="Full Pour" title="Full Pour" type="rss"
+            xmlUrl="http://fullpour.com/atom.xml" htmlUrl="http://fullpour.com/"/>
+        <outline text="Improper Course" title="Improper Course"
+            type="rss"
+            xmlUrl="http://www.impropercourse.com/feeds/posts/default" htmlUrl="http://www.impropercourse.com/"/>
+        <outline text="In the Pipeline:" title="In the Pipeline:"
+            type="rss" xmlUrl="http://pipeline.corante.com/index.xml" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fpipeline.corante.com%2Findex.xml"/>
+        <outline text="Just Like Cooking" title="Just Like Cooking"
+            type="rss"
+            xmlUrl="http://justlikecooking.blogspot.com/feeds/posts/default" htmlUrl="http://justlikecooking.blogspot.com/"/>
+        <outline text="Links to the Damn Paper"
+            title="Links to the Damn Paper" type="rss"
+            xmlUrl="http://linkstothedamnpaper.org/feed/" htmlUrl="http://linkstothedamnpaper.org"/>
+        <outline text="Medieval News" title="Medieval News" type="rss"
+            xmlUrl="http://medievalnews.blogspot.com/feeds/posts/default" htmlUrl="http://medievalnews.blogspot.com/"/>
+        <outline text="Messing About In Sailboats"
+            title="Messing About In Sailboats" type="rss"
+            xmlUrl="http://feeds.feedburner.com/MessingAboutInSailboats" htmlUrl="http://messingaboutinboats.typepad.com/sailing/"/>
+        <outline text="Monday Note" title="Monday Note" type="rss"
+            xmlUrl="http://www.mondaynote.com/feed/" htmlUrl="http://www.mondaynote.com"/>
+        <outline text="MYRMECOS" title="MYRMECOS" type="rss"
+            xmlUrl="http://myrmecos.net/feed/" htmlUrl="http://myrmecos.net"/>
+        <outline text="Neptunus Lex" title="Neptunus Lex" type="rss"
+            xmlUrl="http://www.neptunuslex.com/feed/" htmlUrl="http://www.neptunuslex.com"/>
+        <outline text="neutel11" title="neutel11" type="rss"
+            xmlUrl="http://neutel11.wordpress.com/feed/" htmlUrl="http://neutel11.wordpress.com"/>
+        <outline text="Normal Deviate" title="Normal Deviate" type="rss"
+            xmlUrl="http://normaldeviate.wordpress.com/feed/" htmlUrl="http://normaldeviate.wordpress.com"/>
+        <outline text="Not Even Wrong" title="Not Even Wrong" type="rss"
+            xmlUrl="http://www.math.columbia.edu/~woit/wordpress/?feed=rss2" htmlUrl="http://www.math.columbia.edu/~woit/wordpress"/>
+        <outline text="Occam's Typewriter" title="Occam's Typewriter"
+            type="rss" xmlUrl="http://occamstypewriter.org/feed/" htmlUrl="http://occamstypewriter.org"/>
+        <outline text="Of Particular Significance"
+            title="Of Particular Significance" type="rss"
+            xmlUrl="http://profmattstrassler.com/feed/" htmlUrl="http://profmattstrassler.com"/>
+        <outline text="On Becoming a Domestic and Laboratory Goddess"
+            title="On Becoming a Domestic and Laboratory Goddess"
+            type="rss" xmlUrl="http://isisthescientist.com/feed/" htmlUrl="http://isisthescientist.com"/>
+        <outline text="ongoing" title="ongoing" type="rss"
+            xmlUrl="http://www.tbray.org/ongoing/ongoing.atom" htmlUrl="https://www.tbray.org/ongoing/"/>
+        <outline text="Pharyngula" title="Pharyngula" type="rss"
+            xmlUrl="http://freethoughtblogs.com/pharyngula/feed/" htmlUrl="http://freethoughtblogs.com/pharyngula"/>
+        <outline text="Plastic: Politics, Culture, Point Of View"
+            title="Plastic: Politics, Culture, Point Of View" type="rss"
+            xmlUrl="http://www.plastic.com/plastic.xml" htmlUrl="http://www.plastic.com/"/>
+        <outline text="PLoS Blogs" title="PLoS Blogs" type="rss"
+            xmlUrl="http://blogs.plos.org/feed/" htmlUrl="http://blogs.plos.org"/>
+        <outline text="Podium Cafe" title="Podium Cafe" type="rss"
+            xmlUrl="http://www.podiumcafe.com/atom/" htmlUrl="http://www.podiumcafe.com/"/>
+        <outline text="POLICE INSPECTOR BLOG"
+            title="POLICE INSPECTOR BLOG" type="rss"
+            xmlUrl="http://inspectorgadget.wordpress.com/feed/" htmlUrl="http://inspectorgadget.wordpress.com"/>
+        <outline text="Quantum Diaries" title="Quantum Diaries"
+            type="rss" xmlUrl="http://www.quantumdiaries.org/feed/" htmlUrl="http://www.quantumdiaries.org"/>
+        <outline text="Quantum Frontiers" title="Quantum Frontiers"
+            type="rss" xmlUrl="http://quantumfrontiers.com/feed/" htmlUrl="http://quantumfrontiers.com"/>
+        <outline text="Quomodocumque" title="Quomodocumque" type="rss"
+            xmlUrl="http://quomodocumque.wordpress.com/feed/" htmlUrl="http://quomodocumque.wordpress.com"/>
+        <outline text="Reflections on Physics"
+            title="Reflections on Physics" type="rss"
+            xmlUrl="http://martinperl.com/feed" htmlUrl="http://martinperl.com"/>
+        <outline text="rigmover" title="rigmover" type="rss"
+            xmlUrl="http://rigmover.com/feed/" htmlUrl="http://rigmover.com"/>
+        <outline text="RÉSONAANCES" title="RÉSONAANCES" type="rss"
+            xmlUrl="http://resonaances.blogspot.com/feeds/posts/default" htmlUrl="http://resonaances.blogspot.com/"/>
+        <outline text="Schneier on Security"
+            title="Schneier on Security" type="rss"
+            xmlUrl="http://www.schneier.com/blog/index.rdf" htmlUrl="http://www.schneier.com/blog/"/>
+        <outline text="Science: Science blog | guardian.co.uk"
+            title="Science: Science blog | guardian.co.uk" type="rss"
+            xmlUrl="http://www.guardian.co.uk/science/blog/rss" htmlUrl="http://www.guardian.co.uk/science/blog"/>
+        <outline
+            text="ScienceBlog.com | Science news straight from the source"
+            title="ScienceBlog.com | Science news straight from the source"
+            type="rss"
+            xmlUrl="http://feeds.feedburner.com/scienceblogrssfeed" htmlUrl="http://scienceblog.com"/>
+        <outline text="ScienceBlogs : Combined Feed"
+            title="ScienceBlogs : Combined Feed" type="rss"
+            xmlUrl="http://scienceblogs.com/sample/combined.xml" htmlUrl="http://scienceblogs.com"/>
+        <outline text="Scientific American Blogs Posts"
+            title="Scientific American Blogs Posts" type="rss"
+            xmlUrl="http://rss.sciam.com/all-blogs/feed" htmlUrl="http://blogs.scientificamerican.com"/>
+        <outline text="Scientopia" title="Scientopia" type="rss"
+            xmlUrl="http://scientopia.org/blogs/feed/" htmlUrl="http://scientopia.org/blogs"/>
+        <outline text="Scientopical" title="Scientopical" type="rss"
+            xmlUrl="http://scientopia.info/blogs/scientopical/feed/" htmlUrl="http://scientopia.info/blogs/scientopical"/>
+        <outline text="Sean Carroll" title="Sean Carroll" type="rss"
+            xmlUrl="http://www.preposterousuniverse.com/blog/feed/" htmlUrl="http://www.preposterousuniverse.com/blog"/>
+        <outline text="Simon Payne" title="Simon Payne" type="rss"
+            xmlUrl="http://sipayne.blogspot.com/feeds/posts/default" htmlUrl="http://sipayne.blogspot.com/"/>
+        <outline text="Skepchick" title="Skepchick" type="rss"
+            xmlUrl="http://skepchick.org/blog/?feed=rss2" htmlUrl="http://skepchick.org"/>
+        <outline text="Skulls in the Stars" title="Skulls in the Stars"
+            type="rss" xmlUrl="http://skullsinthestars.com/feed/" htmlUrl="http://skullsinthestars.com"/>
+        <outline text="slacktivist" title="slacktivist" type="rss"
+            xmlUrl="http://www.patheos.com/community/slacktivist/feed/" htmlUrl="http://www.patheos.com/blogs/slacktivist"/>
+        <outline text="Slashdot: News for nerds, stuff that matters"
+            title="Slashdot: News for nerds, stuff that matters"
+            type="rss"
+            xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="http://slashdot.org/"/>
+        <outline text="Slate Blogs" title="Slate Blogs" type="rss"
+            xmlUrl="http://www.slate.com/blogs/bad_astronomy.fulltext.all.10.rss" htmlUrl="http://www.slate.com/blogs/bad_astronomy.fulltext.all.10.rss"/>
+        <outline text="Something about rowing..?"
+            title="Something about rowing..?" type="rss"
+            xmlUrl="http://somethingaboutrowing.blogspot.com/feeds/posts/default" htmlUrl="http://somethingaboutrowing.blogspot.com/"/>
+        <outline text="Southern Fried Science"
+            title="Southern Fried Science" type="rss"
+            xmlUrl="http://www.southernfriedscience.com/?feed=rss2" htmlUrl="http://www.southernfriedscience.com"/>
+        <outline text="Stoat" title="Stoat" type="rss"
+            xmlUrl="http://scienceblogs.com/stoat/feed/" htmlUrl="http://scienceblogs.com/stoat"/>
+        <outline
+            text="Sydney Morning Herald - Business &amp; World News Australia | smh.com.au"
+            title="Sydney Morning Herald - Business &amp; World News Australia | smh.com.au"
+            type="rss"
+            xmlUrl="http://feeds.smh.com.au/rssheadlines/top.xml" htmlUrl="http://www.smh.com.au/"/>
+        <outline text="Ta-Nehisi Coates : The Atlantic"
+            title="Ta-Nehisi Coates : The Atlantic" type="rss"
+            xmlUrl="http://feeds.feedburner.com/Ta-nehisiCoates" htmlUrl="http://www.theatlantic.com/ta-nehisi-coates/"/>
+        <outline text="Tanya Khovanova's Math Blog"
+            title="Tanya Khovanova's Math Blog" type="rss"
+            xmlUrl="http://blog.tanyakhovanova.com/?feed=rss2" htmlUrl="http://blog.tanyakhovanova.com"/>
+        <outline text="Tetrapod Zoology" title="Tetrapod Zoology"
+            type="rss"
+            xmlUrl="http://rss.sciam.com/tetrapod-zoology/feed" htmlUrl="http://blogs.scientificamerican.com/tetrapod-zoology"/>
+        <outline text="The Conversation" title="The Conversation"
+            type="rss" xmlUrl="http://theconversation.edu.au/articles" htmlUrl="http://theconversation.edu.au"/>
+        <outline text="The Dayside" title="The Dayside" type="rss"
+            xmlUrl="http://blogs.physicstoday.org/thedayside/atom.xml" htmlUrl="http://blogs.physicstoday.org/thedayside/"/>
+        <outline text="The Defence Brief" title="The Defence Brief"
+            type="rss"
+            xmlUrl="http://defencebrief.blogspot.com/feeds/posts/default" htmlUrl="http://defencebrief.blogspot.com/"/>
+        <outline text="The Dish" title="The Dish" type="rss"
+            xmlUrl="http://feeds.feedburner.com/andrewsullivan/rApM" htmlUrl="http://dish.andrewsullivan.com"/>
+        <outline text="THE GALE GAZETTE" title="THE GALE GAZETTE"
+            type="rss" xmlUrl="http://galegazette.wordpress.com/feed/" htmlUrl="http://galegazette.wordpress.com"/>
+        <outline text="The Inner Ring" title="The Inner Ring" type="rss"
+            xmlUrl="http://inrng.com/feed/" htmlUrl="http://inrng.com"/>
+        <outline text="The Magistrate's Blog"
+            title="The Magistrate's Blog" type="rss"
+            xmlUrl="http://magistratesblog.blogspot.com/feeds/posts/default" htmlUrl="http://magistratesblog.blogspot.com/"/>
+        <outline text="The Scicurious Brain"
+            title="The Scicurious Brain" type="rss"
+            xmlUrl="http://rss.sciam.com/scicurious-brain/feed" htmlUrl="http://blogs.scientificamerican.com/scicurious-brain"/>
+        <outline text="The Sieve" title="The Sieve" type="rss"
+            xmlUrl="http://the-sieve.com/feed/" htmlUrl="http://the-sieve.com"/>
+        <outline text="The SP Kennel Dog Log"
+            title="The SP Kennel Dog Log" type="rss"
+            xmlUrl="http://spkenneldoglog.blogspot.com/feeds/posts/default" htmlUrl="http://spkenneldoglog.blogspot.com/"/>
+        <outline text="the underwear drawer"
+            title="the underwear drawer" type="rss"
+            xmlUrl="http://theunderweardrawer.blogspot.com/feeds/posts/default" htmlUrl="http://theunderweardrawer.blogspot.com/"/>
+        <outline text="Three-Toed Sloth" title="Three-Toed Sloth"
+            type="rss" xmlUrl="http://bactra.org/weblog/index.rss" htmlUrl="http://bactra.org/weblog/"/>
+        <outline text="Tony's Maths Blog" title="Tony's Maths Blog"
+            type="rss"
+            xmlUrl="http://tonysmaths.blogspot.com/feeds/posts/default" htmlUrl="http://tonysmaths.blogspot.com/"/>
+        <outline text="tor.com / frontpage" title="tor.com / frontpage"
+            type="rss"
+            xmlUrl="http://www.tor.com/index.php?option=com_content&amp;view=all&amp;format=feed&amp;type=rss&amp;content=frontpage" htmlUrl="http://www.tor.com/"/>
+        <outline text="What's In John's Freezer?"
+            title="What's In John's Freezer?" type="rss"
+            xmlUrl="http://whatsinjohnsfreezer.com/feed/" htmlUrl="http://whatsinjohnsfreezer.com"/>
+        <outline text="What's new" title="What's new" type="rss"
+            xmlUrl="https://terrytao.wordpress.com/feed/" htmlUrl="http://terrytao.wordpress.com"/>
+        <outline text="White Coat Underground"
+            title="White Coat Underground" type="rss"
+            xmlUrl="http://whitecoatunderground.com/feed/" htmlUrl="http://www.forbes.com/sites/peterlipson/"/>
+        <outline text="Wired Science" title="Wired Science" type="rss"
+            xmlUrl="http://www.wired.com/wiredscience/feed/" htmlUrl="http://www.wired.com/wiredscience"/>
+        <outline text="Wired Science » Dot Physics"
+            title="Wired Science » Dot Physics" type="rss"
+            xmlUrl="http://www.wired.com/wiredscience/category/dot-physics/feed/" htmlUrl="http://www.wired.com/wiredscience"/>
+        <outline text="xkcd.com" title="xkcd.com" type="rss"
+            xmlUrl="http://xkcd.com/rss.xml" htmlUrl="http://xkcd.com/"/>
+        <outline title="Agile" text="Agile">
+            <outline text="Agile &amp; Business"
+                title="Agile &amp; Business" type="rss"
+                xmlUrl="http://agileconsortium.blogspot.com/feeds/posts/default" htmlUrl="http://www.leanagiletraining.com/blog"/>
+            <outline
+                text="Agile Advice - Working With Agile Methods (Scrum, OpenAgile, Lean)"
+                title="Agile Advice - Working With Agile Methods (Scrum, OpenAgile, Lean)"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/AgileAdvice" htmlUrl="http://www.agileadvice.com"/>
+            <outline text="Agile Management Blog"
+                title="Agile Management Blog" type="rss"
+                xmlUrl="http://www.agilemanagement.net/Articles/Weblog/rssagileman.xml" htmlUrl="http://www.agilemanagement.net/Articles/Weblog/blog.html"/>
+            <outline text="James Shore" title="James Shore" type="rss"
+                xmlUrl="http://www.jamesshore.com/index.rss" htmlUrl="http://www.jamesshore.com"/>
+            <outline
+                text="LeadingAnswers: Leadership and Agile Project Management Blog"
+                title="LeadingAnswers: Leadership and Agile Project Management Blog"
+                type="rss"
+                xmlUrl="http://leadinganswers.typepad.com/leading_answers/atom.xml" htmlUrl="http://leadinganswers.typepad.com/leading_answers/"/>
+            <outline text="Mike Cohn's Blog - Succeeding With Agile®"
+                title="Mike Cohn's Blog - Succeeding With Agile®"
+                type="rss"
+                xmlUrl="http://blog.mountaingoatsoftware.com/?feed=rss2" htmlUrl="http://blog.mountaingoatsoftware.com"/>
+            <outline text="Scrum Log Jeff Sutherland"
+                title="Scrum Log Jeff Sutherland" type="rss"
+                xmlUrl="http://jeffsutherland.com/scrum/rss.xml" htmlUrl="http://scrum.jeffsutherland.com/"/>
+            <outline
+                text="XProgramming - An Agile Software Development Resource"
+                title="XProgramming - An Agile Software Development Resource"
+                type="rss" xmlUrl="http://www.xprogramming.com/feed.xml" htmlUrl="http://xprogramming.com"/>
+        </outline>
+        <outline title="Web" text="Web">
+            <outline text="Anne’s Blog" title="Anne’s Blog" type="rss"
+                xmlUrl="http://annevankesteren.nl/feeds/weblog" htmlUrl="http://annevankesteren.nl/"/>
+            <outline text="Digital Web News Feed"
+                title="Digital Web News Feed" type="rss"
+                xmlUrl="http://www.digital-web.com/news/rss/" htmlUrl="http://www.digital-web.com/"/>
+            <outline text="Hixie's Natural Log"
+                title="Hixie's Natural Log" type="rss"
+                xmlUrl="http://ln.hixie.ch/rss/html" htmlUrl="http://ln.hixie.ch/"/>
+            <outline text="QuirksBlog" title="QuirksBlog" type="rss"
+                xmlUrl="http://www.quirksmode.org/blog/atom.xml" htmlUrl="http://www.quirksmode.org/blog/"/>
+            <outline text="The Web Standards Project"
+                title="The Web Standards Project" type="rss"
+                xmlUrl="http://www.webstandards.org/feed/" htmlUrl="http://www.webstandards.org"/>
+            <outline text="The WHATWG Blog" title="The WHATWG Blog"
+                type="rss" xmlUrl="http://blog.whatwg.org/feed/" htmlUrl="http://blog.whatwg.org"/>
+            <outline text="W3C News" title="W3C News" type="rss"
+                xmlUrl="http://www.w3.org/2000/08/w3c-synd/home.rss" htmlUrl="http://www.w3.org/"/>
+        </outline>
+        <outline title="Math" text="Math">
+            <outline text="A Neighborhood of Infinity"
+                title="A Neighborhood of Infinity" type="rss"
+                xmlUrl="http://sigfpe.blogspot.com/feeds/posts/default" htmlUrl="http://blog.sigfpe.com/"/>
+            <outline text="Ars Mathematica" title="Ars Mathematica"
+                type="rss" xmlUrl="http://www.arsmathematica.net/feed/" htmlUrl="http://www.arsmathematica.net"/>
+            <outline text="Good Math, Bad Math"
+                title="Good Math, Bad Math" type="rss"
+                xmlUrl="http://feeds.feedburner.com/scienceblogs/CyKN" htmlUrl="http://scienceblogs.com/goodmath/"/>
+            <outline text="Gowers's Weblog" title="Gowers's Weblog"
+                type="rss" xmlUrl="http://gowers.wordpress.com/feed/" htmlUrl="http://gowers.wordpress.com"/>
+            <outline text="Noncommutative geometry"
+                title="Noncommutative geometry" type="rss"
+                xmlUrl="http://noncommutativegeometry.blogspot.com/feeds/posts/default" htmlUrl="http://noncommutativegeometry.blogspot.com/"/>
+            <outline text="Secret Blogging Seminar"
+                title="Secret Blogging Seminar" type="rss"
+                xmlUrl="http://sbseminar.wordpress.com/feed/" htmlUrl="http://sbseminar.wordpress.com"/>
+            <outline text="The Everything Seminar"
+                title="The Everything Seminar" type="rss"
+                xmlUrl="http://cornellmath.wordpress.com/feed/" htmlUrl="http://cornellmath.wordpress.com"/>
+            <outline text="The n-Category Café"
+                title="The n-Category Café" type="rss"
+                xmlUrl="http://golem.ph.utexas.edu/category/atom10.xml" htmlUrl="http://golem.ph.utexas.edu/category/"/>
+            <outline text="The Unapologetic Mathematician"
+                title="The Unapologetic Mathematician" type="rss"
+                xmlUrl="http://unapologetic.wordpress.com/feed/" htmlUrl="http://unapologetic.wordpress.com"/>
+            <outline text="What's new" title="What's new" type="rss"
+                xmlUrl="http://terrytao.wordpress.com/feed/" htmlUrl="http://terrytao.wordpress.com"/>
+        </outline>
+        <outline title="Astronomy" text="Astronomy">
+            <outline text="Astronomy Blog" title="Astronomy Blog"
+                type="rss"
+                xmlUrl="http://www.strudel.org.uk/blog/astro/rss.xml" htmlUrl="http://www.strudel.org.uk/blog/astro/"/>
+            <outline text="Astronomy.com - News"
+                title="Astronomy.com - News" type="rss"
+                xmlUrl="http://www.astronomy.com/asy/rss/?sid=26" htmlUrl="http://www.astronomy.com"/>
+            <outline text="Centauri Dreams" title="Centauri Dreams"
+                type="rss"
+                xmlUrl="http://www.centauri-dreams.org/?feed=rss2" htmlUrl="http://www.centauri-dreams.org"/>
+            <outline
+                text="Recent articles published in 'Astronomy and Astrophysics'"
+                title="Recent articles published in 'Astronomy and Astrophysics'"
+                type="rss"
+                xmlUrl="http://www.edpsciences.org/articles/aa/rss/TOCRSS/rss.xml" htmlUrl="http://www.aanda.org"/>
+            <outline text="SkyandTelescope.com's Most Recent Articles"
+                title="SkyandTelescope.com's Most Recent Articles"
+                type="rss"
+                xmlUrl="http://www.skyandtelescope.com/MostRecent.rss" htmlUrl="http://www.skyandtelescope.com/r?19=960&amp;32=3186&amp;7=162446&amp;40=http%3A%2F%2FSkyandTelescope.com"/>
+            <outline text="Star Stryder" title="Star Stryder" type="rss"
+                xmlUrl="http://feeds.feedburner.com/StarStryder" htmlUrl="http://www.starstryder.com"/>
+            <outline text="Tom's Astronomy Blog"
+                title="Tom's Astronomy Blog" type="rss"
+                xmlUrl="http://tomsastroblog.com/?feed=rss2" htmlUrl="http://tomsastroblog.com"/>
+            <outline text="Universe Today" title="Universe Today"
+                type="rss"
+                xmlUrl="http://www.universetoday.com/universetoday.xml" htmlUrl="http://www.universetoday.com"/>
+        </outline>
+        <outline title="Sailing" text="Sailing">
+            <outline text="About.com Sailing" title="About.com Sailing"
+                type="rss"
+                xmlUrl="http://z.about.com/6/g/sailing/b/rss2.xml" htmlUrl="http://sailing.about.com/"/>
+            <outline text="EVK4 SuperbBlog" title="EVK4 SuperbBlog"
+                type="rss"
+                xmlUrl="http://evk4.blogspot.com/feeds/posts/default" htmlUrl="http://evk4.blogspot.com/"/>
+            <outline text="Lectronic Latitude"
+                title="Lectronic Latitude" type="rss"
+                xmlUrl="http://www.latitude38.com/lectronic/rss.xml" htmlUrl="http://www.latitude38.com/lectronic/LectronicLat.lasso"/>
+            <outline text="Live Sail Die" title="Live Sail Die"
+                type="rss" xmlUrl="http://livesaildie.com/feed/" htmlUrl="http://livesaildie.com"/>
+            <outline text="Proper Course" title="Proper Course"
+                type="rss"
+                xmlUrl="http://propercourse.blogspot.com/feeds/posts/default" htmlUrl="http://propercourse.blogspot.com/"/>
+            <outline
+                text="Scuttlebutt - Your Source for Daily Sailing News"
+                title="Scuttlebutt - Your Source for Daily Sailing News"
+                type="rss"
+                xmlUrl="http://www.sailingscuttlebutt.com/rss/index.xml" htmlUrl="http://www.sailingscuttlebutt.com"/>
+            <outline text="TheDailySail.com All Articles"
+                title="TheDailySail.com All Articles" type="rss"
+                xmlUrl="http://www.thedailysail.com/ism/articles.nsf/rss/all" htmlUrl="http://www.thedailysail.com"/>
+        </outline>
+        <outline title="Science" text="Science">
+            <outline text="Cognitive Daily" title="Cognitive Daily"
+                type="rss"
+                xmlUrl="http://scienceblogs.com/cognitivedaily/atom.xml" htmlUrl="http://scienceblogs.com/cognitivedaily/"/>
+            <outline text="Cosmic Variance" title="Cosmic Variance"
+                type="rss" xmlUrl="http://cosmicvariance.com/feed/" htmlUrl="http://blogs.discovermagazine.com/cosmicvariance"/>
+            <outline text="National Geographic News"
+                title="National Geographic News" type="rss"
+                xmlUrl="http://news.nationalgeographic.com/index.rss" htmlUrl="http://news.nationalgeographic.com/"/>
+            <outline
+                text="NatureNews - Most recent articles - nature.com science feeds"
+                title="NatureNews - Most recent articles - nature.com science feeds"
+                type="rss" xmlUrl="http://www.nature.com/news/rss.rdf" htmlUrl="http://www.nature.com/nature/rdf/news/most-recent"/>
+            <outline text="New Scientist - Online News"
+                title="New Scientist - Online News" type="rss"
+                xmlUrl="http://www.newscientist.com/feed.ns?index=online-news" htmlUrl="http://www.newscientist.com/"/>
+            <outline text="RealClimate" title="RealClimate" type="rss"
+                xmlUrl="http://www.realclimate.org/index.php/feed/atom/" htmlUrl="http://www.realclimate.org"/>
+            <outline text="Science: Current Issue"
+                title="Science: Current Issue" type="rss"
+                xmlUrl="http://www.sciencemag.org/rss/current.xml" htmlUrl="http://www.sciencemag.org"/>
+            <outline text="ScienceDaily: Latest Science News"
+                title="ScienceDaily: Latest Science News" type="rss"
+                xmlUrl="http://www.sciencedaily.com/newsfeed.xml" htmlUrl="http://www.sciencedaily.com/news/"/>
+            <outline text="Scientific American"
+                title="Scientific American" type="rss"
+                xmlUrl="http://www.sciam.com/xml/sciam.xml" htmlUrl="http://www.scientificamerican.com"/>
+        </outline>
+    </body>
+</opml>

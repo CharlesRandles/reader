@@ -1,0 +1,42 @@
+{
+  "id" : "user/09605743676117308798/state/com.google/broadcast",
+  "title" : "Chaz's shared items in Google Reader",
+  "author" : "Chaz",
+  "updated" : 1314134682,
+  "direction" : "ltr",
+  "items" : [ {
+    "isReadStateLocked" : true,
+    "commentInfo" : {
+      "user/09605743676117308798/state/com.google/broadcast" : {
+        "permalinkUrl" : "https://plus.google.com/115118555472234063174/posts/8Ko77aGpXYN",
+        "commentState" : "VIEWER_CANNOT_COMMENT"
+      }
+    },
+    "crawlTimeMsec" : "1314134682392",
+    "timestampUsec" : "1314134682392177",
+    "id" : "tag:google.com,2005:reader/item/7c5362af94497646",
+    "categories" : [ "user/09605743676117308798/state/com.google/broadcast", "user/09605743676117308798/state/com.google/read", "user/09605743676117308798/activity/opensocial/google.com", "user/09605743676117308798/activity/opensocial/google.com/source/s:feedreader", "user/09605743676117308798/activity", "Data Presentation" ],
+    "title" : "Do You Really Need a Graph for That? [Uncertain Principles]",
+    "published" : 1314127820,
+    "updated" : 1314127820,
+    "canonical" : [ {
+      "href" : "http://scienceblogs.com/principles/2011/08/do_you_really_need_a_graph_for.php?utm_source=combinedfeed&utm_medium=rss"
+    } ],
+    "alternate" : [ {
+      "href" : "http://feedproxy.google.com/~r/ScienceblogsCombinedFeed/~3/BGkD_wPVqDs/do_you_really_need_a_graph_for.php",
+      "type" : "text/html"
+    } ],
+    "summary" : {
+      "direction" : "ltr",
+      "content" : "<p>As long as I'm picking on education research papers in <cite>Science</cite>, I might as well call out the one immediately after the paper I wrote up in the previous post. This one, titled <a href=\"http://www.sciencemag.org/content/333/6045/1037.short\">Graduate Students' Teaching Experiences Improve Their Methodological Research Skills</a>, is another paper whose basic premise I generally agree with-- they found that graduate students who had teaching responsibilities as well as research responsibilities did a better job of writing research proposals than graduate students who only did research. From all appearances, it's a good study, and makes a valuable point.</p>\n\n<p>And yet, I have a hard time not mocking a paper that includes the following data graph:</p>\n\n<p><img src=\"http://scienceblogs.com/principles/upload/2011/08/do_you_really_need_a_graph_for/teaching_research_silly_graph.png\" width=\"453\" height=\"371\" alt=\"teaching_research_silly_graph.png\"></p>\n\n<p>I mean, really? You have two data points with error bars. does this really need to be presented as a graph? Let alone one playing \"How to Lie With Statistics\" games with the axis limits?</p>\n\n<p>Wouldn't a table be just as effective? In the space taken up by the two basically identical graphs of this form, you could've put a single table with <em>all</em> of your data, not just data on two selected subcategories of your evaluation. You could even have included a table with a detailed statistical breakdown in a convenient easy-to-read format, rather than scattering the results through the text.</p>\n\n<p>But, I guess it isn't <cite>Science</cite>-worthy if it doesn't have a graph. Even an incredibly silly one.</p>\n\n\n <a href=\"http://scienceblogs.com/principles/2011/08/do_you_really_need_a_graph_for.php#commentsArea?utm_source=combinedfeed&amp;utm_medium=rss\">Read the comments on this post...</a><p style=\"margin-top:20px;padding-top:5px;border-top:1px solid #ccc\">\nAlso check out the featured ScienceBlog of the week: <a href=\"http://scienceblogs.com/bookclub/?utm_source=rssTextLink\"><em>Inside the Outbreaks</em> on the ScienceBlogs Book Club</a>\n</p><p><iframe src=\"http://feedads.g.doubleclick.net/~ah/f/f2sgjk82ei57q75m9gnn6hiau0/468/60#http%3A%2F%2Fscienceblogs.com%2Fprinciples%2F2011%2F08%2Fdo_you_really_need_a_graph_for.php%3Futm_source%3Dcombinedfeed%26utm_medium%3Drss\" width=\"100%\" height=\"60\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\"></iframe></p><img src=\"http://feeds.feedburner.com/~r/ScienceblogsCombinedFeed/~4/BGkD_wPVqDs\" height=\"1\" width=\"1\">"
+    },
+    "author" : "Chad Orzel none@example.com",
+    "comments" : [ ],
+    "annotations" : [ ],
+    "origin" : {
+      "streamId" : "feed/http://scienceblogs.com/sample/combined.xml",
+      "title" : "ScienceBlogs",
+      "htmlUrl" : "http://scienceblogs.com"
+    }
+  } ]
+}

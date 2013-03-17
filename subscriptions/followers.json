@@ -1,0 +1,32 @@
+{
+  "friends" : [ {
+    "userIds" : [ "07867069051155047205" ],
+    "profileIds" : [ "100455883090951830540" ],
+    "contactId" : "208",
+    "photoUrl" : "/s2/photos/public/AIbEiAIAAABDCIz4qfqX6OepBiILdmNhcmRfcGhvdG8qKDkzNGEyZjU1ZmRlYzViODU0MDBhN2I1MWVmMjBmMWUzODkwNWExZjcwAVzgPETQweG_r7S4UMMMPvksIBCm",
+    "stream" : "user/07867069051155047205/state/com.google/broadcast",
+    "flags" : 32,
+    "types" : [ 3, 5 ],
+    "displayName" : "Caspian Merlin",
+    "givenName" : "Caspian",
+    "n" : "",
+    "p" : "",
+    "groupId" : [ "2" ]
+  }, {
+    "userIds" : [ "09605743676117308798" ],
+    "profileIds" : [ "115118555472234063174" ],
+    "contactId" : "-1",
+    "photoUrl" : "/s2/photos/public/AIbEiAIAAABECMbKsrybw_nn0QEiC3ZjYXJkX3Bob3RvKig2YzgzYjRlNjFiZTg0OTg0N2NlMTU5MWZjZjgxZGI5ZGVhZjc2ZDY0MAFoVJrxtWB-8oDJL4wKm4VpL6PvDw",
+    "stream" : "user/09605743676117308798/state/com.google/broadcast",
+    "flags" : 33,
+    "displayName" : "Charles Randles",
+    "givenName" : "Charles",
+    "n" : "",
+    "p" : "",
+    "websites" : [ {
+      "title" : "charlesrandles",
+      "url" : "http://twitter.com/charlesrandles"
+    } ],
+    "hasSharedItemsOnProfile" : false
+  } ]
+}
