@@ -50,4 +50,4 @@
        (doseq [feed (subscriptions opml)]
 	      (print-feed feed))))
 
-(opml-test)
+;(opml-test)
